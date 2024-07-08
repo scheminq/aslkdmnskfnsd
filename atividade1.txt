@@ -1,0 +1,15 @@
+PRINCIPAIS TAGS HTML
+
+h1, h2, h3, h4, h5, h6 ==> cabeçalhos de diferentes níveis
+
+p ==> parágrafos de texto
+
+a ==> links (hyperlinks)
+
+img ==> imagens
+
+ul, ol, li ==> listas não ordenadas e ordenadas
+
+div ==> divisões de conteúdos (blocos)
+
+span ==> elementos inline
